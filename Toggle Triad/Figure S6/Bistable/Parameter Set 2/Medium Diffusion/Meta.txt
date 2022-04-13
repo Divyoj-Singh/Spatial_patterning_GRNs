@@ -1,0 +1,16 @@
+SCSCSCSCSCSCSCSCSCSC
+
+Author:
+Chinmay K Haritas,
+@CSB Lab | Indian Institute of Science, Bengaluru
+
+Date:
+2022 Mar 01 - 15:51:54
+
+Plot Name:
+Pure Bistable
+
+Parameter Set:
+Sheet Name: Triad
+Index: 3 (Row + 2)
+Diffusion: 0.008 units

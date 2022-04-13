@@ -1,0 +1,16 @@
+SCSCSCSCSCSCSCSCSCSC
+
+Author:
+Chinmay K Haritas,
+@CSB Lab | Indian Institute of Science, Bengaluru
+
+Date:
+2022 Feb 07 - 17:18:03
+
+Plot Name:
+High Diffusion
+
+Parameter Set:
+Sheet Name: Sheet1
+Index: 33 (Row + 2)
+Diffusion: 0.08 units
